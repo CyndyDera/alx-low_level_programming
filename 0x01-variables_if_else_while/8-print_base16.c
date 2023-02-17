@@ -7,12 +7,8 @@ int main(void)
 {
 	char numbers;
 
-	for (number = '0'; number <= '9'; number++)
-	putchar(number);
 	for (numbers = '0'; numbers <= '9'; numbers++)
 	putchar(numbers);
-	for (number = 'a'; number <= 'f'; number++)
-	putchar(number);
 	for (numbers = 'a'; numbers <= 'f'; numbers++)
 	putchar(numbers);
 
