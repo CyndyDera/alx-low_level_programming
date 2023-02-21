@@ -2,6 +2,7 @@
 /**
  * print_alphabet - prints all alphabets in lowercase
  */
+
 void print_alphabet(void);
 {
 	char let;
