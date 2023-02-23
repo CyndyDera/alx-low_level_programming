@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main -Fizz Buzz program that prints from 1-100
+ * main - Fizz Buzz program that prints from 1-100
  * Return: 0 (Success)
  */
 
