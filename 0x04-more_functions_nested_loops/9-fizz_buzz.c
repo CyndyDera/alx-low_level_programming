@@ -18,7 +18,7 @@ int main(void)
 		else if (p % 5 == 0)
 			printf("Buzz");
 		else
-			printf("%i", i);
+			printf("%i", p);
 		if (p < 100)
 			printf(" ");
 	}
