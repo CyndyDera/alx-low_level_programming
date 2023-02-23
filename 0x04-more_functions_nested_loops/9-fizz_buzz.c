@@ -7,19 +7,19 @@
 
 int main(void)
 {
-	int p;
+	int i;
 
-	for (p = 1; p <= 100; p++)
+	for (i = 1; i <= 100; i++)
 	{
-		if (p % 15 == 0)
+		if (i % 15 == 0)
 			printf("FizzBuzz");
-		else if (p % 3 == 0)
+		else if (i % 3 == 0)
 			printf("Fizz");
-		else if (p % 5 == 0)
+		else if (i % 5 == 0)
 			printf("Buzz");
 		else
-			printf("%i", p);
-		if (p < 100)
+			printf("%i", i);
+		if (i < 100)
 			printf(" ");
 	}
 	printf("\n");
