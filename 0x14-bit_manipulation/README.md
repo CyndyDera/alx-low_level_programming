@@ -1,3 +1,0 @@
-A README ON BIT MANIPULATION
-
-study the codes
